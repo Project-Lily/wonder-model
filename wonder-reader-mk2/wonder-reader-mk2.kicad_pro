@@ -207,7 +207,10 @@
   },
   "erc": {
     "erc_exclusions": [
-      "pin_not_driven|1943100|1092200|df08bdcd-f3e5-4482-b831-e02cdebf5bb0|00000000-0000-0000-0000-000000000000|||"
+      "pin_not_driven|1163320|279400|1e87f230-ae28-44a8-b6be-2ab6a338fdbe|00000000-0000-0000-0000-000000000000|||",
+      "pin_not_driven|1943100|1092200|df08bdcd-f3e5-4482-b831-e02cdebf5bb0|00000000-0000-0000-0000-000000000000|||",
+      "pin_not_driven|482600|279400|b639f411-bfb7-4411-97e7-a55016288db0|00000000-0000-0000-0000-000000000000|||",
+      "pin_not_driven|820420|279400|3f9d6a30-daa3-4b0a-b036-0076f5e0876b|00000000-0000-0000-0000-000000000000|||"
     ],
     "meta": {
       "version": 0
@@ -487,7 +490,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "meta": {
