@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DRV8834RGER")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/DRV8834RGER.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX98357AEWL_T")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/MAX98357AEWL_T.kicad_sym")(options "")(descr ""))
+  (lib (name "TP5100")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/TP5100.kicad_sym")(options "")(descr ""))
+  (lib (name "TF-115")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/TF-115.kicad_sym")(options "")(descr ""))
+)
