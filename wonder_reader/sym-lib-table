@@ -4,4 +4,7 @@
   (lib (name "MAX98357AEWL_T")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/MAX98357AEWL_T.kicad_sym")(options "")(descr ""))
   (lib (name "TP5100")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/TP5100.kicad_sym")(options "")(descr ""))
   (lib (name "TF-115")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/TF-115.kicad_sym")(options "")(descr ""))
+  (lib (name "PIC16F15245")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/PIC16F15245.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX98357AETE_T")(type "KiCad")(uri "${KIPRJMOD}/libs/symbol/MAX98357AETE_T.kicad_sym")(options "")(descr ""))
 )
