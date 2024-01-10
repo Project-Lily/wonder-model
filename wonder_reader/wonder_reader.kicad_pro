@@ -60,42 +60,7 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [
-        "copper_edge_clearance|178619069|53553064|207d24a4-e3ad-4204-9671-46f796acca3f|1a440812-cf65-4dca-9c5b-785b54880fdc",
-        "copper_edge_clearance|194261186|53336851|207d24a4-e3ad-4204-9671-46f796acca3f|ddfdb155-e889-49c8-a947-50b85c3863ea",
-        "copper_edge_clearance|201816865|53331913|207d24a4-e3ad-4204-9671-46f796acca3f|f7e35e27-f099-4b2c-b03c-cbcd66c93426",
-        "copper_edge_clearance|82867193|104000000|9baf7b5b-08e3-4917-9724-931870e61d6d|f37f3c5f-1523-4499-9015-ee83ea881d6b",
-        "courtyards_overlap|105041515|73250832|73647737-5fd5-4e8a-963e-884b4b710939|7ca6b774-23e7-4f60-bb13-7ecfbe9fdd6d",
-        "courtyards_overlap|141262521|71416830|1e31ef3b-71e2-4af8-96fb-0a91080b4a0a|8afcc84e-9d51-4fc7-9423-852d78c854d0",
-        "courtyards_overlap|141827384|64860235|8afcc84e-9d51-4fc7-9423-852d78c854d0|f8c8591e-45e2-4d3c-9849-ee7a2191f5b3",
-        "courtyards_overlap|142302570|67703210|5eb48bf7-8f88-4cc9-ad87-a4e3c8c0249a|8afcc84e-9d51-4fc7-9423-852d78c854d0",
-        "courtyards_overlap|144393874|57900237|9bca491c-fef1-494b-b1bc-0e128b25ece4|f8c8591e-45e2-4d3c-9849-ee7a2191f5b3",
-        "courtyards_overlap|144406119|71416830|11c05bf9-3c9e-4b17-8090-93d9526d63da|1e31ef3b-71e2-4af8-96fb-0a91080b4a0a",
-        "courtyards_overlap|147002568|68108101|5eb48bf7-8f88-4cc9-ad87-a4e3c8c0249a|9bca491c-fef1-494b-b1bc-0e128b25ece4",
-        "courtyards_overlap|147002568|69624711|11c05bf9-3c9e-4b17-8090-93d9526d63da|5eb48bf7-8f88-4cc9-ad87-a4e3c8c0249a",
-        "courtyards_overlap|154434887|67663379|9bca491c-fef1-494b-b1bc-0e128b25ece4|adc4804d-482a-4bf7-b0f5-889e1e3406ef",
-        "courtyards_overlap|159134885|69624711|11c05bf9-3c9e-4b17-8090-93d9526d63da|adc4804d-482a-4bf7-b0f5-889e1e3406ef",
-        "courtyards_overlap|176081382|62347158|5c9931cf-9939-42a1-946d-744118ca9e7e|d1e9f01b-6612-4ff5-810c-7a60d0d5d352",
-        "courtyards_overlap|177982461|57438736|2e6ab432-5780-4cd8-a5f2-7269e703d6b9|4f6cbe85-ff94-4ee0-b569-d394ae3862a1",
-        "courtyards_overlap|178629137|60927887|2e6ab432-5780-4cd8-a5f2-7269e703d6b9|5c9931cf-9939-42a1-946d-744118ca9e7e",
-        "courtyards_overlap|181274068|56828673|2e6ab432-5780-4cd8-a5f2-7269e703d6b9|c9d966ba-3e8c-4f2b-b979-d3bc07df1892",
-        "courtyards_overlap|185924570|55966753|2e6ab432-5780-4cd8-a5f2-7269e703d6b9|e3cc0167-8510-40a7-a16b-7e891e00ca4c",
-        "courtyards_overlap|88041517|71937673|73647737-5fd5-4e8a-963e-884b4b710939|f1ea9d72-6c41-4ab1-851a-43b398ea1eb0",
-        "courtyards_overlap|89698672|70978651|7ca6b774-23e7-4f60-bb13-7ecfbe9fdd6d|f1ea9d72-6c41-4ab1-851a-43b398ea1eb0",
-        "courtyards_overlap|92419259|56299675|4b585c38-9ab2-4a46-bbc0-ca7738875931|7ca6b774-23e7-4f60-bb13-7ecfbe9fdd6d",
-        "hole_clearance|169845973|58825250|3e401370-bb76-444a-a4c6-900023478e41|70215bc3-deff-4761-8e36-d32884a026a7",
-        "hole_clearance|169845973|58825250|3e401370-bb76-444a-a4c6-900023478e41|98b9933b-6406-43a5-9d2f-33bd37cc98f1",
-        "hole_clearance|170045973|58825250|3e401370-bb76-444a-a4c6-900023478e41|203476d1-7ff7-4a18-935c-c91416485cb6",
-        "hole_clearance|170045973|58825250|3e401370-bb76-444a-a4c6-900023478e41|4d0aa07f-e96e-40d1-b115-98d1509b3093",
-        "hole_clearance|175445973|58825250|9c53b7d9-ca62-4451-b407-b6b64a26e427|4704cffe-1858-4c0f-b503-8ff9b5d39068",
-        "hole_clearance|175445973|58825250|9c53b7d9-ca62-4451-b407-b6b64a26e427|fd34298f-7a5f-4064-a7e1-09a39ab1efc7",
-        "hole_clearance|175645973|58825250|9c53b7d9-ca62-4451-b407-b6b64a26e427|8ffd7615-51c7-4a87-9ab3-e2e865d016be",
-        "hole_clearance|175645973|58825250|9c53b7d9-ca62-4451-b407-b6b64a26e427|ce82fb4e-e824-46e5-ba2a-9b83ad608857",
-        "pth_inside_courtyard|102621516|73467672|24e79eb9-8ccc-440f-9aef-4ff35e0011e1|7ca6b774-23e7-4f60-bb13-7ecfbe9fdd6d",
-        "starved_thermal|165100000|59900000|1531a3bc-560f-4254-b25d-640378bce34d|f2d34a91-ee29-44e9-a153-c3f2d22cfd22|B.Cu",
-        "starved_thermal|165100000|61000000|1531a3bc-560f-4254-b25d-640378bce34d|032f0ce7-c9dd-4bb7-990a-1c7ecd7efb8b|B.Cu",
-        "starved_thermal|165100000|62100000|1531a3bc-560f-4254-b25d-640378bce34d|8dc0a61f-808f-48cd-81e3-4f479be12dda|B.Cu"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -168,7 +133,7 @@
         "min_via_diameter": 0.25,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
